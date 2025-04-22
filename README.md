@@ -1,5 +1,5 @@
-# Home_Sales
-FILE DIRECTORY:
+## Home_Sales
+# FILE DIRECTORY:
 "Home_Sales.ipynb"- final code
 "MISC"- contains starter files for collab and viz code
 
